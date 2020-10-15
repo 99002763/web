@@ -1,0 +1,58 @@
+
+body{
+    background-color:whitesmoke;
+    padding-left: 100px;
+}
+h1{
+    font-family: cursive;
+    text-align: center;
+    color: rgb(76, 175, 233);
+}
+a:hover
+{
+    background-color: rgb(140, 177, 201);
+    padding: 10px;
+
+}
+form{
+    
+    background-color:rgb(201, 176, 199);
+    text-align: center;
+    padding: 10px;
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 5%;
+    box-shadow: 2px 2px black;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    
+}
+nav
+{
+    border-radius: 5px;
+    background-color:rgb(123, 192, 233);
+    padding: 12px;
+    margin: 10px;
+    width: 90%;
+    text-align: center;
+    margin-left: 10px;
+}
+a{
+    text-decoration: none;
+    color:grey;
+    padding: 5px;
+    text-align: justify;
+    font-size: 20pt;
+}
+footer{
+    padding: 5px;
+    text-align: center;
+
+}
+
+img{
+    border:1px solid rgb(123, 192, 233);
+    border-radius:5px ;
+    box-shadow: 5px 5px rgb(94, 165, 206);
+
+}
